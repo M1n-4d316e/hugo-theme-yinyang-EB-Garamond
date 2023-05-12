@@ -161,6 +161,8 @@ a:hover {
   display: block;
   margin-right: auto;
   margin-top: 12px;
+  border-radius: 15px;
+
 }
 
 .post-header {
