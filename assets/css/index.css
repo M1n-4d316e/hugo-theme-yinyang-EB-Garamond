@@ -161,7 +161,7 @@ a:hover {
   display: block;
   margin-right: auto;
   margin-top: 12px;
-  border-radius: 15px;
+  border-radius: 7px;
   border: 0.12rem solid transparent;
   backdrop-filter: blur(10px) brightness(0.5);
 }
